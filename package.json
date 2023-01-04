@@ -1,0 +1,25 @@
+{
+  "name": "toktoklives",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/divanov11/mumble2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/divanov11/mumble2/issues"
+  },
+  "homepage": "https://github.com/divanov11/mumble2#readme",
+  "dependencies": {
+    "@firebase/auth": "^0.21.0",
+    "firebase": "^9.15.0"
+  }
+}

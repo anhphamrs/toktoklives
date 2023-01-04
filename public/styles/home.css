@@ -1,0 +1,22 @@
+/* Định dạng cho toàn bộ trang web */
+.container {
+    display: flex;
+}
+
+/* Định dạng cho header và menu */
+#title__container {
+    flex-grow: 0;
+    width: 60%;
+}
+
+/* Định dạng cho nội dung chính */
+/* img {
+
+} */
+  
+/* Đặt hình ảnh về bên phải của trang web và đẩy các phần khác sang bên trái */
+#image__bg {
+    width: 100%;
+    height: auto;
+    margin-top: 75px;
+}
